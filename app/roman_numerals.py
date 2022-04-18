@@ -7,3 +7,5 @@ def parse(string):
         return 3
     elif string == "IV":
         return 4
+    elif string == "V":
+        return 5
