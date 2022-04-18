@@ -5,3 +5,5 @@ def parse(string):
         return 2
     elif string == "III":
         return 3
+    elif string == "IV":
+        return 4
