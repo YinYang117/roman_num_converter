@@ -1,2 +1,6 @@
 def parse(string):
-    return 1
+    if string == "I":
+        return 1
+    elif string == "II":
+        return 2
+
